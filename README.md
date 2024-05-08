@@ -93,6 +93,5 @@ https://www.mlit.go.jp/toshi/tosiko/content/001609328.pdf
 ## attribution
 [都市計画決定GISデータ（国土交通省）](https://www.mlit.go.jp/toshi/tosiko/toshi_tosiko_tk_000087.html)を加工して使用
 
-## 成果物の置き場所
-Source Cooperative smartmaps/toshik
-Single PMTiles file
+## Data repository
+[Source Cooperative smartmaps/toshik](https://beta.source.coop/repositories/smartmaps/toshik)
