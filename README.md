@@ -2,6 +2,8 @@
 都市計画決定GISデータ（国土交通省）
 
 ## Demo
+- [Observable (容積率3D)](https://observablehq.com/d/1ef50425a87ef92e)
+- [Observable (2D)](https://observablehq.com/d/cd3f9c8252ca19c6)
 - [PMTiles Viewer](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fdata.source.coop%2Fsmartmaps%2Ftoshik%2Fa.pmtiles#map=6.92/35.722/138.52)
 
 ## Source Specifications
